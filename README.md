@@ -7,4 +7,5 @@
 5. Isaac (rosa)
 5. Jhoset (blanco)
 6. Soy el colado :D
-
+7. Otro colado
+8. Otro colado again!
