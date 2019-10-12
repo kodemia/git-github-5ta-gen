@@ -2,4 +2,5 @@
 
 1. @devcharles
 2. @rrortegaa
-3. @JosueAvalos
+3. @IsaacMendoza-dv
+4. @JosueAvalos
