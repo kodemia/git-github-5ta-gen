@@ -3,4 +3,4 @@
 1. @devcharles
 2. @rrortegaa
 3. @IsaacMendoza-dv
-7. @phantomKoder
+4. @jhosetcj
