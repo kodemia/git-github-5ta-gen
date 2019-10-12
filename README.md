@@ -1,9 +1,4 @@
-# lista de koders 5ta gen
+# lista de koders 5ta gen y sus colores favoritos
 
-1. Carlos Silva
-2. Josue Xicotencatl
-3. Alejandro Aguilar
-4. Rosa Ortega
-5. Jhoset Camacho
-6. Isaac Mendoza
+1. charles (negro)
 
