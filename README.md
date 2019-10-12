@@ -5,3 +5,4 @@
 3. @IsaacMendoza-dv
 4. @jhosetcj
 5. @Alejandro-swd-qwerty
+6. @JosueAvalos
