@@ -5,3 +5,5 @@
 3. rose (morado)
 4. Alejandro (verde)
 5. Isaac (rosa)
+5. Jhoset (blanco)
+
