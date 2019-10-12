@@ -6,3 +6,4 @@
 4. @jhosetcj
 5. @Alejandro-swd-qwerty
 6. @JosueAvalos
+7. @phantomKoder
